@@ -1,0 +1,7 @@
+Free/Textures/Normal_8K_Flat_A.png filter=lfs diff=lfs merge=lfs -text
+Assets/_Bad_Raccoon/_3D filter=lfs diff=lfs merge=lfs -text
+Realistic filter=lfs diff=lfs merge=lfs -text
+Terrain filter=lfs diff=lfs merge=lfs -text
+Free/Textures/Diffuse_8K_Flat_A.png filter=lfs diff=lfs merge=lfs -text
+Free/Textures/Diffuse_8K_Flat_B.png filter=lfs diff=lfs merge=lfs -text
+Free/Textures/Diffuse_8K_Flat_C.png filter=lfs diff=lfs merge=lfs -text
